@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 # Load data from the specified JSON file
 def load_file(file_name):
-    with open(f'data/{file_name}.json', 'r') as file:
+    with open(f'data_files/{file_name}.json', 'r') as file:
         return json.load(file)
 
 
