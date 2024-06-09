@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "login": "example_john_1",
+        "password": "example_password_0123456789",
+        "joined": "05.05.2020"
+    },
+    {
+        "id": 2,
+        "login": "example_john_2",
+        "password": "example_password_0123456789",
+        "joined": "03.09.2020"
+    },
+    {
+        "id": 3,
+        "login": "example_john_3",
+        "password": "example_password_0123456789",
+        "joined": "04.06.2020"
+    },
+    {
+        "id": 4,
+        "login": "example_jane_1",
+        "password": "example_password_0123456789",
+        "joined": "05.06.2020"
+    },
+    {
+        "id": 5,
+        "login": "example_jane_2",
+        "password": "example_password_0123456789",
+        "joined": "03.07.2020"
+    },
+    {
+        "id": 6,
+        "login": "example_jane_3",
+        "password": "example_password_0123456789",
+        "joined": "01.07.2020"
+    },
+    {
+        "id": 7,
+        "login": "example_adam_1",
+        "password": "example_password_0123456789",
+        "joined": "01.01.2018"
+    },
+    {
+        "id": 8,
+        "login": "example_adam_2",
+        "password": "example_password_0123456789",
+        "joined": "01.01.2018"
+    },
+    {
+        "id": 9,
+        "login": "example_adam_3",
+        "password": "example_password_0123456789",
+        "joined": "02.04.2019"
+    },
+    {
+        "id": 10,
+        "login": "example_bob_1",
+        "password": "example_password_0123456789",
+        "joined": "02.02.2019"
+    },
+    {
+        "id": 11,
+        "login": "example_bob_2",
+        "password": "example_password_0123456789",
+        "joined": "04.02.2018"
+    }
+]

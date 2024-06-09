@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "login": "example_john_1",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 2,
+        "login": "example_john_2",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 3,
+        "login": "example_john_3",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 4,
+        "login": "example_jane_1",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "NO",
+        "functional": "YES"
+    },
+    {
+        "id": 5,
+        "login": "example_jane_2",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 6,
+        "login": "example_jane_3",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "NO"
+    },
+    {
+        "id": 7,
+        "login": "example_adam_1",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "NO"
+    },
+    {
+        "id": 8,
+        "login": "example_adam_2",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 9,
+        "login": "example_adam_3",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 10,
+        "login": "example_bob_1",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 11,
+        "login": "example_bob_2",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 12,
+        "login": "example_bob_3",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 13,
+        "login": "example_jacob_1",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 14,
+        "login": "example_jacob_2",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 15,
+        "login": "example_jacob_3",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 16,
+        "login": "example_jacob_4",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 17,
+        "login": "example_jacob_5",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "NO"
+    },
+    {
+        "id": 18,
+        "login": "example_dylan_1",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "NO"
+    },
+    {
+        "id": 19,
+        "login": "example_dylan_2",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 20,
+        "login": "example_dylan_3",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 21,
+        "login": "example_dylan_4",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 22,
+        "login": "example_dylan_5",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 23,
+        "login": "example_tom_1",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 24,
+        "login": "example_tom_2",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 25,
+        "login": "example_tom_3",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 26,
+        "login": "example_tom_4",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 27,
+        "login": "example_liam_1",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 28,
+        "login": "example_liam_2",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 29,
+        "login": "example_timmy_1",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    },
+    {
+        "id": 30,
+        "login": "example_timmy_2",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "2FA": "YES",
+        "functional": "YES"
+    }
+]

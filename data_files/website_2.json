@@ -1,0 +1,233 @@
+[
+    {
+        "id": 1,
+        "login": "example_sam_1",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 2,
+        "login": "example_sam_2",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 3,
+        "login": "example_sam_3",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 4,
+        "login": "example_dan_1",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 5,
+        "login": "example_dan_2",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 6,
+        "login": "example_dan_3",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 7,
+        "login": "example_peter_1",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 8,
+        "login": "example_peter_2",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 9,
+        "login": "example_peter_3",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 10,
+        "login": "example_peter_1",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 11,
+        "login": "example_peter_2",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 12,
+        "login": "example_peter_3",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 13,
+        "login": "example_jacob_1",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 14,
+        "login": "example_jacob_2",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 15,
+        "login": "example_jacob_3",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 16,
+        "login": "example_jacob_4",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 17,
+        "login": "example_jacob_5",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 18,
+        "login": "example_dylan_1",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 19,
+        "login": "example_dylan_2",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 20,
+        "login": "example_dylan_3",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 21,
+        "login": "example_dylan_4",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 22,
+        "login": "example_dylan_5",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 23,
+        "login": "example_tom_1",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 24,
+        "login": "example_tom_2",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 25,
+        "login": "example_tom_3",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 26,
+        "login": "example_tom_4",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 27,
+        "login": "example_liam_1",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 28,
+        "login": "example_liam_2",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 29,
+        "login": "example_timmy_1",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 30,
+        "login": "example_timmy_2",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 31,
+        "login": "example_timmy_3",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 32,
+        "login": "example_timmy_4",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    },
+    {
+        "id": 33,
+        "login": "example_timmy_5",
+        "password": "example_password_0123456789",
+        "phone": "0123456789",
+        "email": "user@example.com"
+    }
+]
