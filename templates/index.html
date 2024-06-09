@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Search</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <h1>Password Search</h1>
+            <div class="menu">
+                <select id="searchCategory" onchange="changeCategory()">
+                    <option value="website_1">Website 1</option>
+                    <option value="website_2">Website 2</option>
+                    <option value="website_3">Website 3</option>
+                    <!-- Add more options as needed -->
+                </select>
+                <button class="styled-button" onclick="window.location.href='/download_file'">Download File</button>
+            </div>
+            <form id="searchForm">
+                <input type="text" id="name" placeholder="Search by name">
+                <button type="submit">Search</button>
+            </form>
+            <div class="table-container">
+                <table>
+                    <thead id="tableHeader">
+                        <!-- Table header will be dynamically inserted here -->
+                    </thead>
+                    <tbody id="passwordsTableBody">
+                        <!-- Passwords will be dynamically inserted here -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <!-- Popup -->
+    <div id="popup" class="popup"></div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
