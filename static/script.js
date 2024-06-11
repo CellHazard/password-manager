@@ -5,6 +5,9 @@ const endpointFields = {
     website_3: ['id', 'login', 'password', 'joined'],
 };
 
+// Variable to keep track of the currently selected td.
+let selectedTd = null;
+
 // Function to fetch data from the server.
 function fetchData(name = '', category = '') {
     const url = `/${category}?search=${name}`;
@@ -59,11 +62,23 @@ function displayData(data, category) {
             // Ensure item[field] is trimmed and converted to a string if not null/undefined.
             td.textContent = item[field] ? item[field].toString().trim() : '';
             // Add click event listener to copy text to clipboard.
-            td.addEventListener('click', () => copyToClipboard(td.textContent));
+            td.addEventListener('click', () => {
+                copyToClipboard(td.textContent);
+                highlightTd(td);
+            });
             row.appendChild(td);
         });
         tableBody.appendChild(row);
     });
+}
+
+// Function to highlight the clicked td.
+function highlightTd(td) {
+    if (selectedTd) {
+        selectedTd.classList.remove('selected');
+    }
+    selectedTd = td;
+    selectedTd.classList.add('selected');
 }
 
 // Function to handle the change of category (endpoint).
